@@ -2,6 +2,12 @@
 The Gym Landing Page is a visually captivating and dynamic desktop website. Created with HTML, CSS, and JavaScript, it serves as the gateway to a gym's website, offering an enticing introduction. Through a well-designed layout, it showcases gym features, services, and facilities.
 The Gym Landing Page is a visually captivating and dynamic website designed for desktop users. Created using HTML, CSS, and JavaScript, this landing page serves as the gateway to a gym's website, presenting an enticing introduction to potential clients.
 
+
+![image](https://github.com/wallabhulearning/Gym-landing-page/assets/81809987/81ceff66-0f88-42df-b00b-d9b3e84d31cf)
+![image](https://github.com/wallabhulearning/Gym-landing-page/assets/81809987/bf778182-bf6c-45b2-bd36-4c26a757f262)
+![image](https://github.com/wallabhulearning/Gym-landing-page/assets/81809987/1199a877-7e18-43bf-b26a-0a299f90a99f)
+
+
 With a focus on aesthetics and user experience, the Gym Landing Page features a carefully designed layout that showcases the gym's key offerings. High-quality images and vibrant colors create an energetic and motivational atmosphere, instantly capturing visitors' attention.
 
 Through intuitive navigation and strategically placed content sections, the landing page effectively highlights important information. Visitors can easily explore gym membership options, check class schedules, learn about personal training services, and discover the facility's amenities.
